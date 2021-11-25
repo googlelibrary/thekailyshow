@@ -1,41 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title><![CDATA[The Kaily Show]]></title>
-    <link>https://rss.com/podcasts/thekailyshow</link>
-    <atom:link href="https://kailypod.web.app/thekaily.xml" rel="self" type="application/rss+xml"/>
-    <atom:link rel="hub" href="https://hub.livewire.io/"/>
-    <description><![CDATA[A Great Show By Kaily and others!! Join Now!]]></description>
-    <generator>RSS.com v1.4.7</generator>
-    <lastBuildDate>Thu, 25 Nov 2021 11:14:32 GMT</lastBuildDate>
-    <language>hi</language>
-    <copyright><![CDATA[Kaily Productions 2021]]></copyright>
-    <itunes:image href="https://media.rss.com/thekailyshow/20211125_101151_2149051cd84d728b706b9df408aa4468.jpg"/>
-    <image>
-      <url>https://media.rss.com/thekailyshow/20211125_101151_2149051cd84d728b706b9df408aa4468.jpg</url>
-      <title>The Kaily Show</title>
-      <link>https://rss.com/podcasts/thekailyshow</link>
-    </image>
-    <itunes:summary><![CDATA[A Great Show By Kaily and others!! Join Now!]]></itunes:summary>
-    <podcast:locked owner="Noreplykaily@gmail.com">Yes</podcast:locked>
-    <itunes:author>Kaily</itunes:author>
+    <title>The Kaily Show</title>
     <itunes:owner>
-      <itunes:name>Kaily</itunes:name>
-      <itunes:email>Noreplykaily@gmail.com</itunes:email>
+        <itunes:email>noreplykaily@gmail.com</itunes:email>
     </itunes:owner>
+    <itunes:author>Kaily</itunes:author>
+    <description>Indian YouTuber ans Social media Influencer!</description>
+    <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <language>en-us</language>
+    <link>https://kaily.ga/yoyutube</link>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:category text="Comedy">
-      <itunes:category text="Comedy Interviews"/>
-    </itunes:category>
-      <item>
+    <item>
       <title><![CDATA[Stop Making Assumptions!]]></title>
-      <itunes:title><![CDATA[Stop Making Assumptions!]]></itunes:title>
-      <itunes:summary> Stop Making Assumptions! </itunes:summary>
-      <description><![CDATA[<p>Stop Making Assumptions! By CarryMinati when his video "YouTube Vs TikTok" Got removed</p>]]></description>
-      <link>https://rss.com/podcasts/thekailyshow/326134</link>
-      <enclosure url="https://googlelibrary.github.io/thekailyshow/sma.mp3" length="1968015" type="audio/mpeg"/>
-      <guid isPermaLink="false">6dc1d200-62ca-461a-8e76-7fc5d2e51aa8</guid>
+      <description>Stop making Assumptions By CarryMinati after his video "YouTube Vs TickTok" got Removed </description>
+      <pubDate>Tue, 14 Mar 2021 19:27:00 IST</pubDate>
+      <link>https://kaily.ga/youtube</link>
+      <enclosure url="https://googlelibrary.github.io/thekailyshow/sma.mp3" type="audio/mpeg" length="34216300"/>
+      <itunes:duration>04:49</itunes:duration>
+      <guid isPermaLink="false">kailypodtop10</guid>
       <itunes:image href="https://googlelibrary.github.io/thekailyshow/kaily.png"/>
       <itunes:duration>122</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
