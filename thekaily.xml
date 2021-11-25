@@ -34,9 +34,9 @@
       <itunes:summary>Summary</itunes:summary>
       <description><![CDATA[<p>The Kaily Show</p>]]></description>
       <link>https://rss.com/podcasts/thekailyshow/326134</link>
-      <enclosure url="https://kailypod.web.app/Kaily.mp3" length="1968015" type="audio/mpeg"/>
+      <enclosure url="https://googlelibrary.github.io/thekailyshow/Kaily.mp3" length="1968015" type="audio/mpeg"/>
       <guid isPermaLink="false">6dc1d200-62ca-461a-8e76-7fc5d2e51aa8</guid>
-      <itunes:image href="https://kailypod.web.app/kaily.png"/>
+      <itunes:image href="https://googlelibrary.github.io/thekailyshow/kaily.png"/>
       <itunes:duration>122</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
