@@ -29,14 +29,14 @@
       <itunes:category text="Comedy Interviews"/>
     </itunes:category>
     <item>
-      <title><![CDATA[The Init]]></title>
-      <itunes:title><![CDATA[The Init]]></itunes:title>
-      <itunes:summary>Init</itunes:summary>
+      <title><![CDATA[Hello Folks!]]></title>
+      <itunes:title><![CDATA[Hello Folks!]]></itunes:title>
+      <itunes:summary>Folks!</itunes:summary>
       <description><![CDATA[<p>Init</p>]]></description>
       <link>https://rss.com/podcasts/thekailyshow/326134</link>
-      <enclosure url="https://media.rss.com/thekailyshow/20211125_111128_6d4c8dfecf1989e180b160cfe672782d.mp3" length="1968015" type="audio/mpeg"/>
+      <enclosure url="https://kailypod.web.app/Kaily.mp3" length="1968015" type="audio/mpeg"/>
       <guid isPermaLink="false">6dc1d200-62ca-461a-8e76-7fc5d2e51aa8</guid>
-      <itunes:image href="https://media.rss.com/thekailyshow/20211125_101151_2149051cd84d728b706b9df408aa4468.jpg"/>
+      <itunes:image href="https://kailypod.web.app/kaily.png"/>
       <itunes:duration>122</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
