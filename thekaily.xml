@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[The Kaily Show]]></title>
+    <link>https://rss.com/podcasts/thekailyshow</link>
+    <atom:link href="https://kailypod.web.app/thekaily.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://hub.livewire.io/"/>
+    <description><![CDATA[A Great Show By Kaily and others!! Join Now!]]></description>
+    <generator>RSS.com v1.4.7</generator>
+    <lastBuildDate>Thu, 25 Nov 2021 11:14:32 GMT</lastBuildDate>
+    <language>hi</language>
+    <copyright><![CDATA[Kaily Productions 2021]]></copyright>
+    <itunes:image href="https://media.rss.com/thekailyshow/20211125_101151_2149051cd84d728b706b9df408aa4468.jpg"/>
+    <image>
+      <url>https://media.rss.com/thekailyshow/20211125_101151_2149051cd84d728b706b9df408aa4468.jpg</url>
+      <title>The Kaily Show</title>
+      <link>https://rss.com/podcasts/thekailyshow</link>
+    </image>
+    <itunes:summary><![CDATA[A Great Show By Kaily and others!! Join Now!]]></itunes:summary>
+    <podcast:locked owner="Noreplykaily@gmail.com">Yes</podcast:locked>
+    <itunes:author>Kaily</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kaily</itunes:name>
+      <itunes:email>Noreplykaily@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Comedy">
+      <itunes:category text="Comedy Interviews"/>
+    </itunes:category>
+    <item>
+      <title><![CDATA[The Init]]></title>
+      <itunes:title><![CDATA[The Init]]></itunes:title>
+      <itunes:summary>Init</itunes:summary>
+      <description><![CDATA[<p>Init</p>]]></description>
+      <link>https://rss.com/podcasts/thekailyshow/326134</link>
+      <enclosure url="https://media.rss.com/thekailyshow/20211125_111128_6d4c8dfecf1989e180b160cfe672782d.mp3" length="1968015" type="audio/mpeg"/>
+      <guid isPermaLink="false">6dc1d200-62ca-461a-8e76-7fc5d2e51aa8</guid>
+      <itunes:image href="https://media.rss.com/thekailyshow/20211125_101151_2149051cd84d728b706b9df408aa4468.jpg"/>
+      <itunes:duration>122</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 25 Nov 2021 11:14:32 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
