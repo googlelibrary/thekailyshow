@@ -29,22 +29,6 @@
       <itunes:category text="Comedy Interviews"/>
     </itunes:category>
       <item>
-      <title><![CDATA[The Title]]></title>
-      <itunes:title><![CDATA[The Title2]]></itunes:title>
-      <itunes:summary>Summary</itunes:summary>
-      <description><![CDATA[<p>The Kaily Show</p>]]></description>
-      <link>https://rss.com/podcasts/thekailyshow/326134</link>
-      <enclosure url="https://googlelibrary.github.io/thekailyshow/Kaily.mp3" length="1968015" type="audio/mpeg"/>
-      <guid isPermaLink="false">6dc1d200-62ca-461a-8e76-7fc5d2e51aa8</guid>
-      <itunes:image href="https://googlelibrary.github.io/thekailyshow/kaily.png"/>
-      <itunes:duration>122</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:explicit>no</itunes:explicit>
-      <pubDate>Thu, 25 Nov 2021 18:46:59 IST</pubDate>
-    </item>
-    <item>
       <title><![CDATA[Stop Making Assumptions!]]></title>
       <itunes:title><![CDATA[Stop Making Assumptions!]]></itunes:title>
       <itunes:summary> Stop Making Assumptions! </itunes:summary>
