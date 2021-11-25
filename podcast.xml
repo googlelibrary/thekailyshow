@@ -16,7 +16,7 @@
     <item>
       <title><![CDATA[Stop Making Assumptions!]]></title>
       <description>Stop making Assumptions By CarryMinati after his video "YouTube Vs TickTok" got Removed </description>
-      <pubDate>Tue, 14 Mar 2021 19:27:00 IST</pubDate>
+      <pubDate>Tue, 25 Oct 2021 19:27:00 IST</pubDate>
       <link>https://kaily.ga/youtube</link>
       <enclosure url="https://googlelibrary.github.io/thekailyshow/sma.mp3" type="audio/mpeg" length="34216300"/>
       <itunes:duration>04:49</itunes:duration>
@@ -26,8 +26,21 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+      <item>
+      <title><![CDATA[The Almighty Stranger]]></title>
+      <description>The Almighty Stranger </description>
+      <pubDate>Tue, 14 Mar 2021 19:27:00 IST</pubDate>
+      <link>https://kaily.ga/youtube</link>
+      <enclosure url="https://firebasestorage.googleapis.com/v0/b/thekailypodcast.appspot.com/o/tas.mp3?alt=media&token=47bb12cf-749a-4017-aca7-22f90d0cc113" type="audio/mpeg" length="34216300"/>
+      <itunes:duration>12:00</itunes:duration>
+      <guid isPermaLink="false">kailypodtop10</guid>
+      <itunes:image href="https://googlelibrary.github.io/thekailyshow/sanak.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>no</itunes:explicit>
-      <pubDate>Thu, 25 Nov 2021 18:46:59 IST</pubDate>
     </item>
   </channel>
 </rss>
