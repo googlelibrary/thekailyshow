@@ -8,8 +8,8 @@
     </itunes:owner>
     <itunes:author>Kaily</itunes:author>
     <description>Indian YouTuber ans Social media Influencer!</description>
-    <itunes:image href="https://googlelibrary.github.io/thekailyshow/sanak.png"/>
-    <language>en-us</language>
+    <itunes:image href="https://kailypod.web.app/tks.png"/>
+    <language>hi</language>
     <link>https://kaily.ga/yoyutube</link>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -18,10 +18,10 @@
       <description>Stop making Assumptions By CarryMinati after his video "YouTube Vs TickTok" got Removed </description>
       <pubDate>Tue, 25 Oct 2021 19:27:00 IST</pubDate>
       <link>https://kaily.ga/youtube</link>
-      <enclosure url="https://googlelibrary.github.io/thekailyshow/sma.mp3" type="audio/mpeg" length="34216300"/>
+      <enclosure url="https://kailypod.web.app/sma.mp3" type="audio/mpeg" length="34216300"/>
       <itunes:duration>04:49</itunes:duration>
       <guid isPermaLink="false">kailypodtop10</guid>
-      <itunes:image href="https://googlelibrary.github.io/thekailyshow/sanak.png"/>
+      <itunes:image href="https://kailypod.web.app/sma.png"/>
       <itunes:duration>122</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
@@ -33,10 +33,10 @@
       <description>The Almighty Stranger </description>
       <pubDate>Tue, 25 Oct 2021 22:10:00 IST</pubDate>
       <link>https://kaily.ga/youtube</link>
-      <enclosure url="https://thekailypodcast.web.app/tas.mp3" type="audio/mpeg" length="34216300"/>
+      <enclosure url="https://kailypod.web.app/tas.mp3" type="audio/mpeg" length="34216300"/>
       <itunes:duration>12:00</itunes:duration>
       <guid isPermaLink="false">kailypodtop10</guid>
-      <itunes:image href="https://googlelibrary.github.io/thekailyshow/sanak.png"/>
+      <itunes:image href="https://kailypod.web.app/tas.png"/>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
