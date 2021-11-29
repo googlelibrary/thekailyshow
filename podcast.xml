@@ -38,7 +38,21 @@
       <guid isPermaLink="false">kailypodtop10</guid>
       <itunes:image href="https://kailypod.web.app/tas.png"/>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title><![CDATA[Qna 2020]]></title>
+      <description>QNA 2020 </description>
+      <pubDate>Tue, 29 Oct 2021 17:10:00 IST</pubDate>
+      <link>https://kaily.ga/youtube</link>
+      <enclosure url="https://kailypod.web.app/qna20.mp3" type="audio/mpeg" length="34216300"/>
+      <itunes:duration>08:17</itunes:duration>
+      <guid isPermaLink="false">kailypodtop10</guid>
+      <itunes:image href="https://kailypod.web.app/qna20.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:explicit>no</itunes:explicit>
     </item>
